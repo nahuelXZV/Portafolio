@@ -28,7 +28,7 @@ export class ExperienceComponent {
       date_charge: 'Junio — Julio 2023',
       charge: 'Full-Stack Developer',
       company: 'Cheese House Restaurant',
-      dir_company: '#',
+      dir_company: 'https://cheesehouse.com.bo/',
       description: ' Dirigí el desarrollo de un sistema web integral que incorpora funcionalidades esenciales de ventas, compras, control de inventario y generación de informes. Coordiné el despliegue exitoso del sistema en servidores Ubuntu, asegurando un entorno seguro y confiable. Configuré y optimicé el servidor para garantizar el rendimiento y la disponibilidad continua de la plataforma.',
       habilities: [
         'Laravel',
@@ -58,7 +58,7 @@ export class ExperienceComponent {
       date_charge: 'Julio — Diciembre 2022',
       charge: 'Full-Stack Developer',
       company: 'Escuela de Ingenieria - UAGRM',
-      dir_company: '#',
+      dir_company: 'https://ei-uagrm.edu.bo/',
       description: 'Realicé un análisis detallado de los requisitos de la institución, lo que incluyó la identificación de necesidades específicas en áreas académicas, flujo de trabajo, contabilidad, inventario y gestión documental. Coordiné el despliegue exitoso del sistema en servidores Ubuntu, asegurando un entorno seguro y disponible.',
       habilities: [
         'Laravel',
